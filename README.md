@@ -478,6 +478,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 | Title | Date & Code | Orchestration Strategy | Orchestration Synchronization |
 | --- | :---: | :---: | :---: |
+| [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) | [2026/06](https://github.com/WhymustIhaveaname/PerspectiveGap) [![GitHub stars](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap?style=social)](https://github.com/WhymustIhaveaname/PerspectiveGap) | Simultaneous | Asynchronous |
 | [From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering](https://arxiv.org/abs/2512.23844) | [2025/12](https://arxiv.org/abs/2512.23844) | One-by-One | Synchronous |
 | [HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding](https://arxiv.org/abs/2512.04111) | [2025/11](https://arxiv.org/abs/2512.04111) | Simultaneous | Synchronous |
 | [Training Proactive and Personalized LLM Agents](https://arxiv.org/abs/2511.02208) | [2025/11](https://github.com/sunnweiwei/PPP-Agent) [![GitHub stars](https://img.shields.io/github/stars/sunnweiwei/PPP-Agent?style=social)](https://github.com/sunnweiwei/PPP-Agent) | One-by-One | Synchronous |
