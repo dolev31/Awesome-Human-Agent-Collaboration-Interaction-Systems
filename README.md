@@ -310,6 +310,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### ✍️ Writing
 
+- **[2026-07-09]** [HCII 2026] [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)
+
 - **[2025-05-21]** [arXiv 2025] [Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild](https://arxiv.org/abs/2505.16023) [![GitHub stars](https://img.shields.io/github/stars/microsoft/prototypical-hai-collaborations?style=social)](https://github.com/microsoft/prototypical-hai-collaborations)
 
 - **[2025-05-16]** [arXiv 2025] [XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision](https://arxiv.org/abs/2505.11336) [![GitHub stars](https://img.shields.io/github/stars/NuoJohnChen/XtraGPT?style=social)](https://github.com/NuoJohnChen/XtraGPT)
