@@ -227,6 +227,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### 👨🏻‍💻 Software Engineering, Coding
 
+- **[2026-02-06]** [TechRxiv 2026] [Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests](https://doi.org/10.36227/techrxiv.177040595.50580086/v1)
+
 - **[2025-10-07]** [arXiv 2025] [RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback](https://arxiv.org/abs/2510.06186) [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
 
 - **[2025-07-30]** [arXiv 2025] [Magentic-UI: Towards Human-in-the-loop Agentic Systems](https://www.arxiv.org/abs/2507.22358) [![GitHub stars](https://img.shields.io/github/stars/microsoft/magentic-ui?style=social)](https://github.com/microsoft/magentic-ui)
