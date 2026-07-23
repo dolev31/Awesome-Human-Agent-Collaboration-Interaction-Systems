@@ -1,6 +1,8 @@
 # Awesome LLM-Based Human-Agent Collaboration and Interaction Systems
 
+> 🎉 **Our survey has been accepted to ACL 2026!**
 
+[![ACL 2026](https://img.shields.io/badge/ACL%202026-Accepted-brightgreen.svg)](https://arxiv.org/abs/2505.00753)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Collaboration-b31b1b.svg)](https://arxiv.org/abs/2505.00753)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
@@ -14,7 +16,7 @@
 
 ![image](./images/overview_llm_has.jpg)
 
-Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753).
+Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753), **accepted to ACL 2026**.
 
 
 ## 🌟 Introduction
@@ -884,6 +886,8 @@ Contributions are welcome! If you have relevant papers, code, or insights, feel 
  ([©️click here back to table of contents👆🏻](#contents))
 
 If you find this repository useful, please consider citing our papers 💕:
+
+*The survey has been accepted to **ACL 2026**; the BibTeX below will be updated to the proceedings entry once it is available.*
 
 ```
 @misc{zou2025llmbasedhumanagentcollaborationinteraction,
