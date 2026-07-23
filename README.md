@@ -438,8 +438,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### ✍️ Writing
 
-- **[2026-07-09]** [HCII 2026] [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)
-
 - **[2026-05-11]** [arXiv 2026] [ECHO: Explainable Co-editing with Human-in-the-loop Operations for Presentation Refinement](https://arxiv.org/abs/2606.09851)
 
 - **[2026-03-02]** [arXiv 2026] [ViviDoc: Generating Interactive Documents through Human-Agent Collaboration](https://arxiv.org/abs/2603.01912) [![GitHub stars](https://img.shields.io/github/stars/MisterBrookT/vividoc?style=social)](https://github.com/MisterBrookT/vividoc)
