@@ -61,6 +61,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - **[2026-07-18]** [arXiv 2026] [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) [[Project]](https://cchen1436.github.io/jarvis)
 
+- **[2026-07-09]** [HCII 2026] [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)
+
 - **[2026-07-07]** [arXiv 2026] [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents)
 
 - **[2026-07-05]** [arXiv 2026] [HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation](https://arxiv.org/abs/2607.04329)
@@ -121,6 +123,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 
 - **[2026-02-18]** [arXiv 2026] [Overseeing Agents Without Constant Oversight: Challenges and Opportunities](https://arxiv.org/abs/2602.16844)
+
+- **[2026-02-06]** [TechRxiv 2026] [Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests](https://doi.org/10.36227/techrxiv.177040595.50580086/v1)
 
 - **[2026-01-10]** [arXiv 2026] [Value of Information: A Framework for Human-Agent Communication](https://arxiv.org/abs/2601.06407)
 
@@ -476,6 +480,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | Title | Date & Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) | [2026/07](https://cchen1436.github.io/jarvis) | Guidance, Corrective | Refinement, Critique | Segment | During Task |
+| [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | [2026/07](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | Guidance, Corrective | Demonstration, Refinement | Segment | Initial Setup, During Task |
 | [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) | [2026/07](https://github.com/wcx21/deliberative-collaboration-agents) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents) | Guidance, Evaluative | Critique, Binary Assessment | Segment | During Task |
 | [HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation](https://arxiv.org/abs/2607.04329) | [2026/07](https://arxiv.org/abs/2607.04329) | Guidance, Evaluative, Corrective, Implicit | Critique, Refinement, Binary Assessment, Human Control | Holistic, Segment | Initial Setup, During Task, Post Task |
 | [Uncertainty Decomposition for Clarification Seeking in LLM Agents](https://arxiv.org/abs/2606.19559) | [2026/06](https://arxiv.org/abs/2606.19559) | Guidance | Demonstration | Segment | During Task |
@@ -506,6 +511,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [Modeling Distinct Human Interaction in Web Agents (CowCorpus)](https://arxiv.org/abs/2602.17588) | [2026/02](https://arxiv.org/abs/2602.17588) | Implicit, Corrective | User Action, Human Control, Refinement | Segment | During Task |
 | [Overseeing Agents Without Constant Oversight: Challenges and Opportunities](https://arxiv.org/abs/2602.16844) | [2026/02](https://arxiv.org/abs/2602.16844) | Evaluative, Corrective | Binary Assessment, Critique | Segment, Holistic | During Task, Post Task |
 | [Learning Personalized Agents from Human Feedback](https://arxiv.org/abs/2602.16173) | [2026/02](https://github.com/facebookresearch/PAHF) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF) | Guidance, Corrective, Evaluative | Critique, Refinement, Preference Ranking | Segment | Initial Setup, During Task, Post Task |
+| [Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | [2026/02](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | Evaluative | Binary Assessment, Scalar Rating | Holistic | Post Task |
 | [Value of Information: A Framework for Human-Agent Communication](https://arxiv.org/abs/2601.06407) | [2026/01](https://arxiv.org/abs/2601.06407) | Guidance | Demonstration | Segment | During Task |
 | [Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation (MIDAS)](https://arxiv.org/abs/2601.00475) | [2026/01](https://arxiv.org/abs/2601.00475) | Evaluative, Guidance | Preference Ranking, Critique | Segment | During Task |
 | [From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering](https://arxiv.org/abs/2512.23844) | [2025/12](https://arxiv.org/abs/2512.23844) | Guidance, Evaluative | Critique, Preference Ranking | Segment | Initial Setup, During Task |
@@ -581,6 +587,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | Title | Date & Code | Interaction Types | Interaction Variant |
 | --- | :---: | :---: | :---: |
 | [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) | [2026/07](https://cchen1436.github.io/jarvis) | Collaboration | Supervision, Cooperation |
+| [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | [2026/07](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | Collaboration | Supervision, Cooperation |
 | [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) | [2026/07](https://github.com/wcx21/deliberative-collaboration-agents) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents) | Collaboration | Cooperation, Coordination |
 | [HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation](https://arxiv.org/abs/2607.04329) | [2026/07](https://arxiv.org/abs/2607.04329) | Collaboration | Supervision, Delegation, Coordination |
 | [Uncertainty Decomposition for Clarification Seeking in LLM Agents](https://arxiv.org/abs/2606.19559) | [2026/06](https://arxiv.org/abs/2606.19559) | Collaboration | Cooperation |
@@ -611,6 +618,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [Modeling Distinct Human Interaction in Web Agents (CowCorpus)](https://arxiv.org/abs/2602.17588) | [2026/02](https://arxiv.org/abs/2602.17588) | Collaboration | Supervision, Delegation, Coordination |
 | [Overseeing Agents Without Constant Oversight: Challenges and Opportunities](https://arxiv.org/abs/2602.16844) | [2026/02](https://arxiv.org/abs/2602.16844) | Collaboration | Supervision |
 | [Learning Personalized Agents from Human Feedback](https://arxiv.org/abs/2602.16173) | [2026/02](https://github.com/facebookresearch/PAHF) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF) | Collaboration | Cooperation |
+| [Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | [2026/02](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | Collaboration | Delegation, Supervision |
 | [Value of Information: A Framework for Human-Agent Communication](https://arxiv.org/abs/2601.06407) | [2026/01](https://arxiv.org/abs/2601.06407) | Collaboration | Cooperation |
 | [Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation (MIDAS)](https://arxiv.org/abs/2601.00475) | [2026/01](https://arxiv.org/abs/2601.00475) | Collaboration | Cooperation |
 | [From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering](https://arxiv.org/abs/2512.23844) | [2025/12](https://arxiv.org/abs/2512.23844) | Collaboration | Supervision, Cooperation |
@@ -684,6 +692,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | Title | Date & Code | Orchestration Strategy | Orchestration Synchronization |
 | --- | :---: | :---: | :---: |
 | [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) | [2026/07](https://cchen1436.github.io/jarvis) | Simultaneous | Asynchronous |
+| [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | [2026/07](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | One-by-One | Synchronous |
 | [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) | [2026/07](https://github.com/wcx21/deliberative-collaboration-agents) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents) | One-by-One | Synchronous |
 | [HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation](https://arxiv.org/abs/2607.04329) | [2026/07](https://arxiv.org/abs/2607.04329) | One-by-One | Synchronous |
 | [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) | [2026/06](https://github.com/WhymustIhaveaname/PerspectiveGap) [![GitHub stars](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap?style=social)](https://github.com/WhymustIhaveaname/PerspectiveGap) | Simultaneous | Asynchronous |
@@ -714,6 +723,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [Modeling Distinct Human Interaction in Web Agents (CowCorpus)](https://arxiv.org/abs/2602.17588) | [2026/02](https://arxiv.org/abs/2602.17588) | Simultaneous | Synchronous |
 | [Overseeing Agents Without Constant Oversight: Challenges and Opportunities](https://arxiv.org/abs/2602.16844) | [2026/02](https://arxiv.org/abs/2602.16844) | One-by-One | Asynchronous |
 | [Learning Personalized Agents from Human Feedback](https://arxiv.org/abs/2602.16173) | [2026/02](https://github.com/facebookresearch/PAHF) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF) | One-by-One | Synchronous |
+| [Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | [2026/02](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | One-by-One | Asynchronous |
 | [Value of Information: A Framework for Human-Agent Communication](https://arxiv.org/abs/2601.06407) | [2026/01](https://arxiv.org/abs/2601.06407) | One-by-One | Synchronous |
 | [Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation (MIDAS)](https://arxiv.org/abs/2601.00475) | [2026/01](https://arxiv.org/abs/2601.00475) | One-by-One | Synchronous |
 | [From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering](https://arxiv.org/abs/2512.23844) | [2025/12](https://arxiv.org/abs/2512.23844) | One-by-One | Synchronous |
@@ -789,6 +799,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | Title | Date & Code | Communication Structure | Communication Mode |
 | --- | :---: | :---: | :---: |
 | [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) | [2026/07](https://cchen1436.github.io/jarvis) | Hierarchical | Conversation, Observation |
+| [An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | [2026/07](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31) | Hierarchical | Conversation |
 | [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) | [2026/07](https://github.com/wcx21/deliberative-collaboration-agents) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents) | Decentralized | Conversation |
 | [HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation](https://arxiv.org/abs/2607.04329) | [2026/07](https://arxiv.org/abs/2607.04329) | Hierarchical, Centralized | Conversation, Observation |
 | [Uncertainty Decomposition for Clarification Seeking in LLM Agents](https://arxiv.org/abs/2606.19559) | [2026/06](https://arxiv.org/abs/2606.19559) | Centralized | Conversation |
@@ -819,6 +830,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [Modeling Distinct Human Interaction in Web Agents (CowCorpus)](https://arxiv.org/abs/2602.17588) | [2026/02](https://arxiv.org/abs/2602.17588) | Centralized | Observation, Conversation |
 | [Overseeing Agents Without Constant Oversight: Challenges and Opportunities](https://arxiv.org/abs/2602.16844) | [2026/02](https://arxiv.org/abs/2602.16844) | Hierarchical | Observation |
 | [Learning Personalized Agents from Human Feedback](https://arxiv.org/abs/2602.16173) | [2026/02](https://github.com/facebookresearch/PAHF) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF) | Centralized | Conversation |
+| [Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | [2026/02](https://doi.org/10.36227/techrxiv.177040595.50580086/v1) | Centralized | Conversation |
 | [Value of Information: A Framework for Human-Agent Communication](https://arxiv.org/abs/2601.06407) | [2026/01](https://arxiv.org/abs/2601.06407) | Centralized | Conversation |
 | [Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation (MIDAS)](https://arxiv.org/abs/2601.00475) | [2026/01](https://arxiv.org/abs/2601.00475) | Decentralized | Conversation |
 | [From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering](https://arxiv.org/abs/2512.23844) | [2025/12](https://arxiv.org/abs/2512.23844) | Hierarchical | Conversation |
